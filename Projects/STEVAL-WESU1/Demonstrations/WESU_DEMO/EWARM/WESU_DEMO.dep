@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>3180889965</fileChecksum>
+  <configuration>
+    <name>STEVAL-WESU1</name>
+    <outputs>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_cortex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_crc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_gpio.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_i2c.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ramfunc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_iwdg.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_uart.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_usart.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gap_aci.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gatt_aci.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_hal_aci.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_l2cap_aci.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\gp_timer.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\hci.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_itf_template.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\list.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\osal.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\startup_stm32l151xe.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\algorithms.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\BlueST_Protocol.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\clock.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\console.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\low_power.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_msp.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_it.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_config.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver_HL.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver_HL.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115_Driver_00.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver_HL.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32_bluenrg_ble.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_charger.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gg.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_rtc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_accelero.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gyro.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_magneto.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_pressure.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_sensors.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_temperature.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\system_stm32l1xx.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_cortex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_crc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_dma.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_gpio.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_i2c.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ramfunc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_iwdg.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim_ex.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_uart.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_usart.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gap_aci.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gatt_aci.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_hal_aci.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_l2cap_aci.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\hci.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_itf_template.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\gp_timer.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\list.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\osal.pbi</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Exe\WESU_DEMO.hex</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\WESU_DEMO.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_adc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\compiler.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_def.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Include\stm32l151xe.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_gg.h</file>
+      <file>$PROJ_DIR$\..\Inc\stm32l1xx_hal_conf.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_tim.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionFX_Library\Inc\osx_motion_fx.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_flash_ramfunc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\hci.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionFX_Library\osx_license.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_rcc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_iwdg.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ystdio.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_gap.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\link_layer.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\..\Inc\BlueST_Protocol.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_dma.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_flash.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\osal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\Interface\bluenrg_itf_template.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\List\Project.map</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\stm32l1xx_flash_offset.icf</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_hal_aci.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\sm.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\temperature.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_gatt_server.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionAR_Library\osx_license.h</file>
+      <file>$PROJ_DIR$\..\Inc\console.h</file>
+      <file>$PROJ_DIR$\..\Inc\algorithms.h</file>
+      <file>$PROJ_DIR$\..\Inc\wesu_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\BlueNRG_Comm\stm32_bluenrg_ble.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_sensors.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_rcc_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Include\stm32l1xx.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_regs.h</file>
+      <file>$PROJ_DIR$\..\Inc\system_stm32l1xx.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_adc_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_flash_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_pwr_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_rtc_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_tim_ex.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_accelero.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\algorithms.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32_bluenrg_ble.o</file>
+      <file>$PROJ_DIR$\..\Inc\clock.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115_Driver_00.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver_HL.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\list.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\clock.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\BlueST_Protocol.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Exe\Project.out</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_usart.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_config.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\main.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_it.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_msp.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\low_power.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\console.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\ble_status.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver_HL.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver_HL.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdlib.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionCP_Library\osx_license.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\platform_config.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_gpio.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_cortex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_crc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_i2c.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_pwr.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_spi.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_uart.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\Legacy\stm32_hal_legacy.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm3.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_gpio_ex.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Inc\stm32l1xx_hal_spi_ex.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_pressure.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionAR_Library\Inc\osx_motion_ar.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_gap_aci.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_rtc.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\hal_types.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionCP_Library\inc\osx_motion_cp.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\sensor.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_magneto.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\accelerometer.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\magnetometer.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_temperature.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_charger.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi_ex.o</file>
+      <file>$PROJ_DIR$\..\Inc\main.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_gyro.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\hci_const.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\gyroscope.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\BlueNRG_Comm\wesu_bluenrg.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\gp_timer.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\component.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\pressure.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_gatt_aci.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\bluenrg_aci_const.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\hal.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\includes\clock.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdarg.h</file>
+      <file>$PROJ_DIR$\..\Inc\stm32l1xx_it.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ymath.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\math.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xtgmath.h</file>
+      <file>$PROJ_DIR$\..\Inc\low_power.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\limits.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115_Driver.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115_Battery.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_pressure.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\Common\GasGauge.h</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_charger.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gg.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_magneto.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_accelero.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_rtc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gyro.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_sensors.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_dma.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_temperature.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Source\Templates\iar\startup_stm32l151xe.s</file>
+      <file>$PROJ_DIR$\..\Src\BlueST_Protocol.c</file>
+      <file>$PROJ_DIR$\..\Src\algorithms.c</file>
+      <file>$PROJ_DIR$\..\Src\clock.c</file>
+      <file>$PROJ_DIR$\..\Src\console.c</file>
+      <file>$PROJ_DIR$\..\Src\low_power.c</file>
+      <file>$PROJ_DIR$\..\Src\main.c</file>
+      <file>$PROJ_DIR$\..\Src\stm32l1xx_hal_msp.c</file>
+      <file>$PROJ_DIR$\..\Src\stm32l1xx_it.c</file>
+      <file>$PROJ_DIR$\..\Src\wesu_config.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115_Driver_00.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\BlueNRG_Comm\stm32_bluenrg_ble.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_charger.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_gg.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_rtc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_accelero.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_gyro.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_magneto.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_pressure.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_sensors.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_temperature.c</file>
+      <file>$PROJ_DIR$\..\Src\system_stm32l1xx.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_adc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_adc_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_cortex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_crc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_dma.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash_ramfunc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_gpio.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_i2c.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_iwdg.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_pwr.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_pwr_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rcc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rcc_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rtc.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rtc_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_spi.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_spi_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_tim.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_tim_ex.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_uart.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_usart.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionAR_Library\Lib\osxMotionAR120_CM3_IAR_ot.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionCP_Library\Lib\osxMotionCP100_CM3_IAR_ot.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_OSX_MotionFX_Library\Lib\osxMotionFX107_CM3_IAR_ot.a</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_gap_aci.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_gatt_aci.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_hal_aci.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_l2cap_aci.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\hci.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\Interface\bluenrg_itf_template.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\gp_timer.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\list.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\osal.c</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc_ex.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\system_stm32l1xx.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc.o</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32_bluenrg_ble.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stc3115_Driver_00.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver_HL.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gyro.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver_HL.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\console.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_pressure.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LSM6DS3_ACC_GYRO_driver.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\algorithms.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_config.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_magneto.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_msp.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\clock.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\BlueST_Protocol.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver_HL.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_gg.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LPS25HB_Driver.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_rtc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_it.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\LIS3MDL_MAG_driver.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\main.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\low_power.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_charger.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_accelero.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_sensors.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\wesu_temperature.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\system_stm32l1xx.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_adc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_cortex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_crc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_dma.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_i2c.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_flash_ramfunc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_gpio.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_iwdg.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_pwr_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rcc_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_rtc_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_spi_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_tim_ex.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_uart.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\stm32l1xx_hal_usart.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gatt_aci.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_gap_aci.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_hal_aci.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\hci.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_l2cap_aci.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\bluenrg_itf_template.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\list.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\gp_timer.__cstat.et</file>
+      <file>$PROJ_DIR$\STEVAL-WESU1\Obj\osal.__cstat.et</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 164 122</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\STEVAL-WESU1\Exe\Project.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 122</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 91</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 125 152 19 20 21 25 22 163 162 172 23 24 174 175 26 171 176 178 177 157 168 27 303 304 305 28 155 156 153 317 318 315 0 1 247 2 3 6 4 5 7 170 8 9 10 11 12 14 13 211 15 16 17 18 169 316 241 243 239 167 240 245 242 236 244 246 248 124 126 123 127</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\CMSIS\Device\ST\STM32L1xx\Source\Templates\iar\startup_stm32l151xe.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 28</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\BlueST_Protocol.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 30</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 163</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 333</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 94 96 97 140 102 116 104 113 115 141 196 111 112 135 160 145 110 134 108 213 215 214 212 158 181 182 183 184 179 93 143 139 144 146 147 148 149 150 198 197 201 206 159 207 199 130 204 202 200 128 129 131 133 114 136 137 138 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 161 109 194 103 195 203 151 205 208 210 216 220 209 217 221 223 218 222 219 224 225 173 226 227</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218 114 202 131 96 173 111 112 200 222 214 226 104 158 219 128 224 225 129 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\algorithms.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 152</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 328</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140 102 97 99 94 96 116 104 105 113 115 141 196 111 112 114 160 145 110 134 108 213 215 214 212 158 173 179 180 181 182 183 184 93 143 139 144 146 147 148 149 150 198 197 201 206 159 207 199 130 204 202 200 128 129 131 133 135 132 136 137 138 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 161 109 194 103 195 203 151 205 208 210 216 220 209 217 221 223 218 222 219 224 225 226 227</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218 114 202 131 96 173 111 112 200 222 214 226 104 158 219 128 224 225 129 135 180 132 105</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\clock.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 31</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 162</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 332</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 186 108 160 142 190 97 210 188 181 138 182 185 187 189 191 192 193 194 209 93 159 100 106 117 95 118 107 119 101 165 98 161 195 196 205 221 204 202 113 183 115 184 137 133 116 179 140 141 143 166 109 103 203 151 208 216 220 217 223 154 139 144 145 146 147 148 149 150 134 198 102 213 197 99 201 215 206 94 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154 202 108 160 110 113 115 184 183 138 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\console.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 32</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 172</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 325</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 179 202 106 108 97 93 107 134 181 114 110 100 95 101 98 194 213 215 128 227 133 159 117 118 119 165 166 161 195 196 116 102 99 94 200 129 131 135 109 160 138 183 137 142 185 186 187 188 189 190 191 192 193 103 150 198 197 201 206 207 199 130 204 111 214 104 212 96 112 158 173 136 218 113 115 184 182 140 141 143 139 144 145 146 147 148 149 203 151 205 208 210 216 220 209 217 221 223 222 219 224 225 226</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 116 160 110 113 115 184 183 138 196 109 179 133 108 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 114 202 131 96 173 111 112 200 222 214 226 104 158 219 128 224 225 129 212 136 218 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\low_power.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 33</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 171</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 342</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 220 110 144 159 181 204 116 97 223 224 151 131 112 226 96 135 227 109 160 138 183 179 93 143 139 145 203 208 216 217 222 202 114 136 196 113 115 184 182 140 141 146 147 148 149 108 205 210 209 221 219 225 173 104 214 232 137 133 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 161 194 103 195 150 134 198 102 213 197 99 201 215 206 94 207 199 130 111 200 128 129 212 158 218</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 232 116 160 110 113 115 184 183 138 196 109 179 181 108 182 93 100 106 97 141 98 193 139 161 144 166 143 192 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 114 202 131 96 173 111 112 200 222 214 226 104 158 219 128 224 225 129 212 136 218 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 34</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 168</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 341</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 116 160 110 113 115 184 183 138 196 109 230 229 231 233 212 181 108 182 93 100 106 97 141 98 193 139 161 144 166 143 192 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218 232 114 202 131 96 173 111 112 200 222 214 226 104 158 219 128 224 225 129 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\stm32l1xx_hal_msp.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 35</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 170</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 331</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 199 97 150 181 116 93 143 161 110 136 179 201 206 207 108 140 141 109 103 183 160 198 197 215 159 130 204 212 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 138 194 195 182 196 134 102 213 99 94 139 113 115 184 144 145 146 147 148 149 137 133 142 203 151 205 208 210 216 220 209 217 221 223 218</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 212 181 182 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\stm32l1xx_it.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 36</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 169</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 339</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 97 161 205 181 182 183 184 179 116 93 143 110 195 196 108 221 204 136 113 115 140 141 194 210 209 228 137 133 138 159 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 109 103 203 151 208 216 220 217 223 218 212 139 144 145 146 147 148 149 150 134 198 102 213 197 99 201 215 206 94 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 212 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218 228</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\wesu_config.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 167</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 329</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 142 190 108 161 212 186 97 214 160 196 181 188 110 116 210 221 204 134 111 104 150 202 131 182 185 187 189 191 192 193 103 200 128 129 138 96 112 158 173 93 159 100 106 117 95 118 107 119 101 165 98 166 109 194 195 179 205 209 135 137 222 219 224 225 113 183 115 184 226 136 133 140 141 143 139 144 145 146 147 148 149 203 151 208 216 220 217 223 218 114 198 102 213 197 99 201 215 206 94 207 199 130 227</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 114 202 108 160 110 113 115 184 183 138 131 96 173 111 112 159 196 150 200 222 214 226 104 158 219 128 224 225 129 179 212 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 136 218 135</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 38</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 174</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 340</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 183 184 108 113 115 217 110 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 217 108 160 110 113 115 184 183 138</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 175</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 324</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 110 150 160 113 115 108 230 217 204 220 196 183 184 209 207 159 138 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 209 207 204 159 160 110 113 115 184 183 138 196 150 220 108 217 230 229 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 176</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 337</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 116 183 184 109 113 115 110 223 108 138 196</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 223 108 160 110 113 115 184 183 138 116 196 109</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lps25hb\LPS25HB_Driver_HL.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 41</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 178</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 334</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 231 113 110 108 221 204 115 160 150 230 223 220 196 183 184 199 130 159 138 229</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 199 221 204 159 160 110 113 115 184 183 138 196 150 220 108 130 223 230 229 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 42</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 177</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 327</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 108 183 184 113 115 94 110 138</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 94 108 160 110 113 115 184 183 138</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\lsm6ds3\LSM6DS3_ACC_GYRO_driver_HL.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 45</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 157</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 322</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 94 231 138 110 160 206 159 108 230 216 204 220 196 150 113 183 115 184 229 215</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 215 206 204 159 160 110 113 115 184 183 138 196 150 220 108 216 94 230 229 231</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115_Driver_00.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 44</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 156</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 321</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 160 138 235 108 113 183 115 184 234</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 234 108 160 110 113 115 184 183 138 235</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\Components\stc3115\stc3115.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 43</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 155</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 319</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 238 237 108 110 160 138 234 113 183 115 184</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 234 108 160 110 113 115 184 183 138 237 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\BlueNRG_Comm\stm32_bluenrg_ble.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 153</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 320</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 116 223 113 165 115 97 96 118 108 166 161 110 160 159 181 204 220 202 218 117 119 151 128 182 183 184 179 106 95 107 101 98 109 103 93 203 208 216 217 226 200 129 112 131 219 114 137 133 138 142 100 185 186 187 188 189 190 191 192 193 194 195 196 205 210 209 221 111 214 104 212 173 136 140 141 143 139 144 145 146 147 148 149 150 134 198 102 213 197 99 201 215 206 94 207 199 130 222 224 225 158</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 136 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 218 219 226 202 114 131 96 173 111 112 200 222 214 104 158 128 224 225 129 212</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 47</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 241</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 335</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 108 97 210 181 182 183 184 179 116 93 143 194 209 113 115 140 141 161 110 195 196 205 221 204 137 133 138 159 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 109 103 203 151 208 216 220 217 223 139 144 145 146 147 148 149 150 134 198 102 213 197 99 201 215 206 94 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_charger.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 48</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 239</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 343</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 98 100 95 97 93 101 204 106 107 103 203 208 181 133 159 117 118 119 165 108 109 110 220 223 160 138 137 142 185 186 187 188 189 190 191 192 193 166 161 151 216 217 99 113 183 115 184 182 116 179 140 141 143 194 195 196 205 210 209 221 139 144 145 146 147 148 149 150 134 198 102 213 197 201 215 206 94 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108 160 110 113 115 184 183 138 99 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_gg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 49</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 240</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 336</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 143 182 183 184 179 116 93 108 213 97 145 110 134 94 237 181 113 115 140 141 196 102 99 215 234 137 133 138 159 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 139 144 146 147 148 149 150 198 197 201 206 207 199 130 204 166 161 109 194 103 195 203 151 205 208 210 216 220 209 217 221 223 238</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 99 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 210 201 133 234 237 238</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Platform\wesu_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 50</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 244</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 338</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 143 116 183 110 160 179 93 97 148 102 99 94 138 146 147 182 140 141 149 134 108 213 215 159 201 113 115 184 196 150 181 137 133 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 139 144 145 198 197 206 207 199 130 204 166 161 109 194 103 195 203 151 205 208 210 216 220 209 217 221 223</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 108 160 110 113 115 184 183 138 159 196 150 99 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_accelero.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 51</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 243</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 344</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 196 108 106 93 97 138 110 204 107 109 195 203 208 215 160 133 159 100 95 101 98 221 216 220 137 142 117 118 119 165 166 161 194 151 181 209 179 206 94 150 113 183 115 184 182 116 185 186 187 188 189 190 191 192 193 103 205 210 217 223 140 141 143 139 144 145 146 147 148 149 134 198 102 213 197 99 201 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 151 215 206 204 159 160 110 113 115 184 183 138 196 150 220 108 216 94 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_gyro.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 245</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 323</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 215 185 179 204 220 110 108 189 116 93 97 137 187 191 201 216 142 186 188 190 143 139 181 221 160 138 133 159 100 106 117 95 118 107 119 101 165 144 196 145 198 197 209 206 94 150 113 183 115 184 182 140 141 146 147 148 149 134 102 213 99 217 223 192 98 193 166 161 109 194 103 195 203 151 205 208 210 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 213 215 206 204 159 160 110 113 115 184 183 138 196 150 220 108 216 94 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 151 205 209 207 217 197 199 221 130 223 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_magneto.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 242</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 330</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108 93 107 103 106 97 150 160 100 95 101 98 207 159 113 115 133 117 118 119 165 210 221 204 209 196 183 184 137 142 185 186 187 188 189 190 191 192 193 161 110 205 215 179 181 217 220 138 182 116 140 141 143 166 109 194 195 203 151 208 216 223 139 144 145 146 147 148 149 134 198 102 213 197 99 201 206 94 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 205 209 207 204 159 160 110 113 115 184 183 138 196 150 220 108 217 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 151 215 206 216 94 213 197 199 221 130 223 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_pressure.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 236</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 326</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 97 209 110 108 213 223 220 179 116 93 143 149 134 181 221 204 138 182 140 141 146 147 148 183 102 99 94 199 130 159 196 150 113 115 184 137 133 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 139 144 145 198 197 201 215 206 217 166 161 109 194 103 195 203 151 205 208 210 216 207</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 197 199 221 204 159 160 110 113 115 184 183 138 196 150 220 108 130 223 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 151 215 206 216 94 213 205 209 207 217 208 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_sensors.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 246</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 345</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 99 116 113 108 115 141 97 223 140 181 204 220 213 194 197 201 182 160 183 184 179 93 143 161 110 195 196 216 217 151 205 208 210 137 133 138 159 142 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 166 109 103 203 209 221 139 144 145 146 147 148 149 150 134 198 102 215 206 94 207 199 130</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 137 181 108 160 110 113 115 184 183 138 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 133 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\BSP\STEVAL-WESU1\Sensor_Comm\wesu_temperature.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 56</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 248</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 346</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 185 192 108 196 159 160 189 97 93 130 113 115 137 187 191 193 109 195 203 208 216 150 142 186 188 190 199 183 184 133 100 106 117 95 118 107 119 101 165 98 166 161 194 151 181 204 215 179 221 223 220 110 138 182 116 140 141 143 103 205 210 207 139 144 145 146 147 148 149 134 198 102 213 197 99 201 206 94 209 217</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 208 199 221 204 159 160 110 113 115 184 183 138 196 150 220 108 130 223 181 182 93 100 106 97 141 98 193 139 161 144 166 143 192 116 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 142 134 198 203 102 137 151 215 206 216 94 213 205 209 207 217 197 99 210 201 133</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\Src\system_stm32l1xx.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 57</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 316</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 348</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 109 116 97 193 161 145 98 108 166 110 160 138 140 141 93 143 139 113 183 115 184 144 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 93 100 106 97 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 58</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 317</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 349</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 108 166 110 165 160 161 117 119 196 97 106 95 107 101 98 138 100 185 186 187 188 189 190 191 192 193 194 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_adc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 59</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 318</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 350</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 186 100 190 97 194 188 185 187 189 191 192 193 161 160 106 117 95 118 107 119 101 165 98 108 166 110 138 196 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_adc_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 60</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 315</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 347</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 191 187 193 97 185 189 192 161 160 100 186 188 190 194 106 117 95 118 107 119 101 165 98 108 166 110 138 196 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_cortex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 0</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 351</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 161 165 118 108 166 110 117 119 196 97 106 95 107 101 98 138 100 185 186 187 188 189 190 191 192 193 194 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_crc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 62</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 352</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 189 161 160 185 192 97 187 191 193 100 186 188 190 194 106 117 95 118 107 119 101 165 98 108 166 110 138 196 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_dma.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 63</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 247</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 353</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144 109 97 140 141 113 115 145 116 93 143 139 160 183 184 110 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 64</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 2</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 354</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97 160 116 93 143 139 183 184 110 140 141 113 115 144 109 145 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 65</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 3</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 355</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 188 186 190 97 194 185 187 189 191 192 193 161 160 100 106 117 95 118 107 119 101 165 98 108 166 110 138 196 195 140 141 116 93 143 139 113 183 115 184 144 109 103 145 146 147 148 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_flash_ramfunc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 68</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 6</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 357</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 191 187 193 97 185 189 192 161 160 100 186 188 190 194 106 117 95 118 107 119 101 165 98 108 166 110 138 196 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_gpio.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 66</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 4</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 358</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 95 98 106 107 108 138 110 97 117 118 119 165 166 160 161 196 100 185 186 187 188 189 190 191 192 193 194 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_i2c.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 67</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 5</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 356</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 189 161 185 192 187 191 193 97 186 188 190 194 100 106 117 95 118 107 119 101 165 98 108 166 110 160 138 195 140 141 116 93 143 139 113 183 115 184 144 196 103 109 145 146 147 148 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_iwdg.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 69</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 359</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 95 98 106 107 108 138 110 97 117 118 119 165 166 160 161 196 100 185 186 187 188 189 190 191 192 193 194 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_pwr.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 70</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 360</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 188 97 100 186 190 194 185 187 189 191 192 193 161 160 106 117 95 118 107 119 101 165 98 108 166 110 138 196 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_pwr_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 71</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 9</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 361</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 107 138 110 106 108 97 95 101 98 117 118 119 165 166 160 161 196 100 185 186 187 188 189 190 191 192 193 194 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rcc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 72</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 10</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 362</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 118 108 166 110 165 160 161 117 119 196 97 106 95 107 101 98 138 100 185 186 187 188 189 190 191 192 193 194 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rcc_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 73</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 363</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97 160 116 93 143 139 183 184 110 140 141 113 115 144 109 145 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rtc.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 74</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 364</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 144 109 97 140 141 113 115 145 116 93 143 139 160 183 184 110 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_rtc_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 75</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 365</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 183 93 116 184 97 110 143 139 140 141 113 115 144 109 145 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_spi.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 76</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 366</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 140 141 113 115 97 144 109 116 93 143 139 160 183 184 110 145 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_spi_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 77</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 211</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 367</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 188 97 100 186 190 194 185 187 189 191 192 193 161 160 106 117 95 118 107 119 101 165 98 108 166 110 138 196 140 141 116 93 143 139 113 183 115 184 144 109 145 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_tim.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 78</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 368</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 101 100 95 98 106 107 108 138 110 97 117 118 119 165 166 160 161 194 185 186 187 188 189 190 191 192 193 195 140 141 116 93 143 139 113 183 115 184 144 196 103 109 145 146 147 148 149</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_tim_ex.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 79</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 369</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 97 160 116 93 143 139 183 184 110 140 141 113 115 144 109 145 100 106 185 117 186 95 187 118 188 107 189 119 190 101 191 165 192 98 193 108 166 138 161 196 194 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_uart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 80</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 370</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 160 161 165 118 108 166 110 117 119 196 97 106 95 107 101 98 138 100 185 186 187 188 189 190 191 192 193 194 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Drivers\STM32L1xx_HAL_Driver\Src\stm32l1xx_hal_usart.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 81</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 371</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 185 192 189 161 160 187 191 193 97 100 186 188 190 194 106 117 95 118 107 119 101 165 98 108 166 110 138 196 145 140 141 116 93 143 139 113 183 115 184 144 109 146 147 148 149 103 195</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 93 100 106 97 141 98 193 108 160 110 113 115 184 183 138 139 161 144 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_gap_aci.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 82</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 373</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 112 202 131 108 120 113 115 226 158 173 224 160 183 184 96 104 225 214 200 111 110 138 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 120 144 173 225 214 96 226 112 104 158 224 131 200 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_gatt_aci.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 83</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 372</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 108 131 202 112 120 113 115 226 158 173 96 224 160 183 184 104 225 214 222 111 110 138 144</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 120 144 173 225 214 96 226 112 104 158 224 131 222 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_hal_aci.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 84</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 21</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 374</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 173 144 112 131 120 160 158 224 110 138 202 225 214 128 111 108 113 183 115 184 96 226 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 120 144 173 225 214 96 226 112 104 158 224 131 128 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\controller\bluenrg_l2cap_aci.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 85</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 22</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 376</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 111 144 173 112 120 160 158 131 224 110 138 202 225 214 128 108 113 183 115 184 96 226 104</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 120 144 173 225 214 96 226 112 104 158 224 131 128 111</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\hci\hci.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 86</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 24</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 375</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 146 198 106 108 197 206 202 93 107 147 207 214 113 115 226 100 95 101 98 196 97 148 183 160 181 199 173 136 184 96 104 218 159 117 118 119 165 166 161 149 150 179 201 215 130 204 120 225 219 110 138 144 112 182 142 185 186 187 188 189 190 191 192 193 145 116 134 102 213 99 94 158 137 133 140 141 143 139 109 194 103 195 203 151 205 208 210 216 220 209 217 221 223</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 120 144 173 225 214 96 226 112 104 158 219 136 181 182 93 100 106 97 141 98 193 139 161 166 143 192 116 196 109 140 185 194 117 186 95 145 187 118 146 103 188 107 189 147 119 148 190 195 101 149 191 165 179 159 150 142 134 198 203 102 137 151 215 206 204 220 216 94 213 205 209 207 217 197 199 221 130 223 208 99 210 201 133 218</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\Interface\bluenrg_itf_template.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 87</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 25</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 377</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 121</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 121</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\gp_timer.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 88</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 379</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 184 108 160 202 115 110 113 183 138 154 219 226</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 154 202 108 160 110 113 115 184 183 138 219 226</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\list.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 89</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 26</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 378</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 160 138 158 202 108 113 183 115 184</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 202 108 160 110 113 115 184 183 138 158</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\..\..\..\..\..\Middlewares\ST\STM32_BlueNRG\SimpleBlueNRG_HCI\utils\osal.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 90</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 380</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 110 108 160 138 202 120 196 150 113 183 144 159 115 184</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 159 160 110 113 115 184 183 138 196 150 120 202 108 144</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+</project>
+
+

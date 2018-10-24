@@ -1,0 +1,9 @@
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.c
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver_HL.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\Common\magnetometer.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\Common\sensor.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: F:\MDK525\ARM\ARMCC\Bin\..\include\string.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\Common\component.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: F:\MDK525\ARM\ARMCC\Bin\..\include\stdint.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: ..\..\..\..\..\Drivers\BSP\Components\lis3mdl\LIS3MDL_MAG_driver.h
+.\wesu_demo\lis3mdl_mag_driver_hl.o: F:\MDK525\ARM\ARMCC\Bin\..\include\math.h
